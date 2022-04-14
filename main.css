@@ -1,0 +1,99 @@
+*{
+    font-family:  sans-serif;
+    background: no-repeat; 
+    background-color: aqua;
+    text-align: center;
+    box-sizing: border-box; 
+     
+}
+
+ h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    background-color: blueviolet;
+}
+
+h2 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+    font-size: 35px;
+}
+
+
+.title {
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    text-align: justify;
+}
+
+.p2{
+    text-align: left;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    padding: 10px;
+}
+
+
+
+.details {
+    display: flex;
+    border-style: solid;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+
+
+.linkbar {
+    display: flex;
+    border-style: solid;
+    padding: 10px;
+}
+
+
+/* .para2 {
+    color: purple
+}
+
+.large{
+    font-size: 50fps
+}
+
+.centre {
+    text-align: center;
+}
+
+.pinktext{
+    color:pink;
+}
+
+
+#myid55 {
+    color: orange;
+    border-style: solid
+} */
+
+
